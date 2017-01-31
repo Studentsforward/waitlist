@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <title>Gradfolio</title>
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
+  <meta property="og:title" content="">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="">
+	<meta property="og:site_name" content="">
+	<meta property="og:description" content="">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Montserrat:400,700' rel='stylesheet' type='text/css'>
+  
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/login.css">
+  <script src="js/modernizr-2.7.1.js"></script>
+  
+</head>
+
+<body>    
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="logo" href="index.html"><img src="img/logo.png" alt="Logo"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#features" class="scroll">Features</a></li>
+            <!--<li><a href="#newsletter" class="scroll">Waitlist</a></li> 
+            <li><a href="#press" class="scroll">Press</a></li>
+            <li><a href="#team" class="scroll">Team</a></li>
+            <li><a href="#footer" class="scroll">Interested?</a></li>-->
+            <li><a href="login.html">Login/Sign up</a></li>
+          </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+    
+    <header id="home">
+        <div class="row header-info">
+          <div class="col-sm-10 col-sm-offset-1 text-center">
+              <h1 class="wow fadeIn"><font color="#fff">Grad<span><font color="#00b6ff">Folio</font></span></font></h1>
+            <br />
+              <!--<div class="BOOM wow fadeInUp header-info" data-wow-delay="0.4s">
+	           <img src="img/BOOM.png">
+            </div>
+                  <p class="lead wow fadeIn" data-wow-delay="0.5s"><i><b></b></i></p>-->
+            <br />
+              
+            <div class="row">
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+            <h2 class="black">Get Invited to the Waitlist.</h2>
+              <h3 class="black" id="waitlistLabel" style="display: none;"><!--Currently, there are 7124 people on the waitlist--></h3>
+              <h3 class="black" id="userWaitlistLabel" style="display: none;"><!--You are number 6239 on our waitlist--></h3>
+            
+            <div class="row">
+              <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                <form role="form">
+                  <div class="form-group">
+                    <input type="email" class="form-control" id="inputEmail" placeholder="Enter Email">
+                  </div>
+                    <!-- setting button type="submit" forces page to reload. Use javascript to reload specific elements -->
+                  <button type="button" class="btn btn-primary btn-lg" onclick="addToWaitlist()">Join Waitlist</button>
+                </form>
+              </div>
+            </div>
+              
+              <h6>Be one of the first people to exclusively download the App and move yourself up on the waitlist by referring friends.</h6>
+              
+
+          </div>
+        </div>
+            <!--<div class="row">
+              <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+                <div class="row">
+                  <div class="col-xs-6 text-right wow fadeInUp" data-wow-delay="0.5s">
+                      <!--<img src="img/applestore.png">
+                      <a href="login.html" class="btn btn-secondary btn-lg">Sign up!</a>
+                  </div>
+                  <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="0.6s">
+                      <!--<img src="img/googleplay.png">
+                      <a href="login.html" class="btn btn-primary btn-lg">Login</a>
+                  </div>
+                </div>  
+              </div>
+            </div> -->
+            
+          </div>
+        </div>
+      
+    </header>
+        
+        
+    
+    <div class="mouse-icon hidden-xs">
+				<div class="scroll"></div>
+			</div>
+        
+    <section id="be-the-first" class="pad-xl">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2 text-center margin-30 wow fadeIn" data-wow-delay="0.4s">
+            <h2 class="black">Save Money, Save Time, and Build Wealth.</h2>
+            <br />
+              <p class="black"><b>GivingTree helps our clients save money by investing in the appropriate category based on your survey results - whether that is paying off a loan, or investing in the stock market, we are geared to build wealth for everyone. We save time by our AI program that automatically adjusts your savings based on your preferences, without you ever having to look. </b></p>
+            <br /></p>
+          </div>
+        </div>
+        
+        <div class="iphone wow fadeInUp" data-wow-delay="0.4s">
+	        <img src="img/iphone.png">
+        </div>
+      </div>
+    </section>
+        
+    <!--Pricing-->
+    <section id="features" class="pad-lg">
+      <div class="container">
+        <div class="row margin-50">
+          <div class="col-sm-8 col-sm-offset-2 text-center">
+              
+            <div class="wow bounceInDown" data-wow-delay="0.4s">
+					<div class="section-heading">
+					<h2>Features</h2>
+					<i class="fa fa-2x fa-angle-down"></i>
+
+					</div>
+					</div>
+            <p class="black">Giving Tree is a financial planning AI platform that optimizes your cash flow.</p>
+          </div>
+        </div>
+          
+          <div class="container">
+		    <div class="row">
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.5s">
+				    <hr class="line blue">
+				    <h3>Time is Priceless!</h3>
+                    <p>Time is priceless...that is why Giving Tree aims to save everyone's time by automating the financial planning process with an AI system.</p>
+			    </div>
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.6s">
+				    <hr  class="line blue">
+				    <h3>Save, Earn, and Optimize Your Cash Flow</h3>
+				    <p>Be the FIRST of your friends to automate the process of financial planning so that you can save and earn money without ever having to think about it. Our service helps to optimize your cash flow for free.</p>
+			    </div>
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.7s">
+				    <hr  class="line blue">
+				    <h3>Advance Yourself on the Waitlist!</h3>
+				    <p>By referring friends to the waitlist of Gradfolio, you can move your way up to exclusively download the App first.</p>
+			    </div>
+		    </div>
+	    </div>
+        
+      </div>
+    </section>
+        
+    
+    <footer id="footer">
+        <div class="footer-top">
+            <ul class="socials">
+              <li class="boomlinks">
+                  <a href="login.html"><font color="white">Login/Sign up</font></a>
+              </li>
+              <li class="boomlinks">
+                <a href="#home" class="scroll"><font color="white">Home</font></a>
+              </li>
+              <li class="boomlinks">
+                 <a href="#" ><font color="white">Invest</font></a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer-bottom">
+            <div class="container">
+              <div class="row">
+                  <img src="img/logo.png" alt="logo bottom" class="center-block"/>
+              </div>
+            </div>
+            <div class=".col-md-6 text-center">
+                <h5>Copyright &copy; Giving Tree, LLC. 2016. All rights reserved.
+                    <a href="privacy.html"><u>Privacy Policy</u></a></h5>
+          </div>
+        </div>
+    </footer>
+    
+    
+    <!-- Javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+    
+    <script>
+        function addToWaitlist() {
+            var email = document.getElementById("inputEmail").value;
+            
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (xhttp.readyState == 4 && xhttp.status == 200) {
+                    document.getElementById("userWaitlistLabel").innerHTML = xhttp.responseText;
+                    alert(xhttp.responseText);
+                }
+            };
+            xhttp.open("POST", "waitlist", true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send("inputEmail=" + email);
+        }
+    </script>
+
+   
+    </body>
+</html>

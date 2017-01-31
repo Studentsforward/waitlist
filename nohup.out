@@ -1,0 +1,591 @@
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+174.76.140.170 - - [28/Jan/2017 21:40:40] "GET / HTTP/1.1" 200 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /js/wow.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /js/main.js HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/press-01.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/press-02.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/tylerpeterson.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/press-03.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/press-04.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/iphone.png HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/linkedin.png HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/noahpompan.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/patrickhartmann.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/NickStrebig.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/patrickborgerding.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/samkhattar.PNG HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/paulcochrane.jpg HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/gregpynes.png HTTP/1.1" 404 -
+174.76.140.170 - - [28/Jan/2017 21:40:41] "GET /img/logo.png HTTP/1.1" 404 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /? HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /static/css/main.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /static/css/animate.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /static/css/login.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:02:50] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:02:51] "GET /static/img/logo.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:51] "GET /static/img/iphone.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:51] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:51] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:51] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:02:53] "POST /waitlist HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:03:05] "GET /? HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:03:05] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:03:05] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:03:05] "GET /favicon.ico HTTP/1.1" 404 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /? HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/css/main.css HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/css/login.css HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/css/animate.css HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /js/main.js HTTP/1.1" 404 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/img/iphone.png HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/img/logo.png HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+169.231.137.146 - - [29/Jan/2017 00:03:19] "GET /favicon.ico HTTP/1.1" 404 -
+169.231.137.146 - - [29/Jan/2017 00:03:27] "POST /waitlist HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /? HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/css/animate.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/css/login.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/css/main.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/img/logo.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/img/iphone.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:42] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:04:43] "POST /waitlist HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:05:19] "GET / HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:05:19] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:05:19] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:05:19] "GET /js/wow.min.js HTTP/1.1" 404 -
+54.174.33.17 - - [29/Jan/2017 00:05:32] "GET / HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /? HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/css/animate.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/css/main.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/css/login.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/img/iphone.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/img/logo.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:06:22] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET / HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/css/main.css HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/css/login.css HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/css/animate.css HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /js/main.js HTTP/1.1" 404 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/img/iphone.png HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:44] "GET /static/img/logo.png HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:45] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:45] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:45] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+169.231.105.131 - - [29/Jan/2017 00:06:48] "POST /waitlist HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:10:34] "GET / HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:10:34] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:10:34] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:10:34] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:55] "GET / HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:55] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:55] "GET /static/css/animate.css HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/css/main.css HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/css/login.css HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /js/wow.min.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /js/main.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/img/logo.png HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/img/iphone.png HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:56] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:57] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+184.189.241.252 - - [29/Jan/2017 00:12:57] "GET /js/wow.min.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:57] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:57] "GET /js/main.js HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:12:57] "GET /favicon.ico HTTP/1.1" 404 -
+184.189.241.252 - - [29/Jan/2017 00:13:49] "POST /waitlist HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET / HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/css/main.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/css/login.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/css/animate.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/img/logo.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/img/iphone.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:15:52] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:06] "GET / HTTP/1.1" 200 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /js/wow.min.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/css/main.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/css/animate.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /js/main.js HTTP/1.1" 404 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/css/login.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/img/logo.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/img/iphone.png HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+169.231.161.71 - - [29/Jan/2017 00:19:07] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET / HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET /static/css/animate.css HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET /static/css/login.css HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET /static/css/main.css HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:19] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /js/wow.min.js HTTP/1.1" 404 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /static/img/logo.png HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /js/main.js HTTP/1.1" 404 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /static/img/iphone.png HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:20] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:21] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+70.213.10.179 - - [29/Jan/2017 00:23:47] "POST /waitlist HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET / HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/css/main.css HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/css/animate.css HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/css/login.css HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /js/wow.min.js HTTP/1.1" 404 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /js/main.js HTTP/1.1" 404 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/img/logo.png HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/img/iphone.png HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:50] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:51] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:52] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+70.197.12.133 - - [29/Jan/2017 00:26:57] "POST /waitlist HTTP/1.1" 200 -
+70.209.200.225 - - [29/Jan/2017 03:21:17] "GET / HTTP/1.1" 200 -
+70.209.200.225 - - [29/Jan/2017 03:21:18] "GET /js/wow.min.js HTTP/1.1" 404 -
+70.209.200.225 - - [29/Jan/2017 03:21:18] "GET /js/main.js HTTP/1.1" 404 -
+70.209.200.225 - - [29/Jan/2017 03:21:18] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+70.209.200.225 - - [29/Jan/2017 03:21:54] "POST /waitlist HTTP/1.1" 200 -
+174.76.140.170 - - [29/Jan/2017 04:35:24] "GET / HTTP/1.1" 200 -
+174.76.140.170 - - [29/Jan/2017 04:35:25] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 04:35:25] "GET /js/wow.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 04:35:25] "GET /js/main.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 04:35:25] "GET /favicon.ico HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 04:35:25] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 04:35:25] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 04:35:29] "POST /waitlist HTTP/1.1" 200 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET / HTTP/1.1" 200 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/css/main.css HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /js/wow.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /js/main.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/css/login.css HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/css/animate.css HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/img/logo.png HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/img/iphone.png HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:45] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+174.76.140.170 - - [29/Jan/2017 21:48:50] "POST /waitlist HTTP/1.1" 200 -
+174.76.140.170 - - [29/Jan/2017 21:49:03] "GET /login.html HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 21:50:03] "GET /login.html HTTP/1.1" 404 -
+python: can't open file '../app.py': [Errno 2] No such file or directory
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+174.76.140.170 - - [29/Jan/2017 21:54:17] "GET / HTTP/1.1" 200 -
+174.76.140.170 - - [29/Jan/2017 21:54:17] "GET /js/wow.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 21:54:17] "GET /js/main.js HTTP/1.1" 404 -
+174.76.140.170 - - [29/Jan/2017 21:54:17] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+[2017-01-29 21:54:19,361] ERROR in app: Exception on /login [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 28, in loginScreen
+    return render_template("login.html")
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: login.html
+174.76.140.170 - - [29/Jan/2017 21:54:19] "GET /login HTTP/1.1" 500 -
+91.197.232.10 - - [30/Jan/2017 12:24:50] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&\xe0\x00\x00\x00\x00\x00Cookie:')
+91.197.232.10 - - [30/Jan/2017 12:24:50] "  +&à     Cookie: mstshash=hello" 400 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/main.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET / HTTP/1.1" 200 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/login.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/img/logo.png HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/animate.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/login.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /js/wow.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /js/main.js HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/img/iphone.png HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/css/animate.css HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/img/logo.png HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /static/img/iphone.png HTTP/1.1" 304 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /apple-touch-icon-120x120.png HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:14] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+174.76.140.170 - - [30/Jan/2017 16:41:31] "POST /waitlist HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET / HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/css/animate.css HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/css/main.css HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/css/login.css HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /js/wow.min.js HTTP/1.1" 404 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /js/main.js HTTP/1.1" 404 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/img/logo.png HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/img/iphone.png HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:27] "GET /favicon.ico HTTP/1.1" 404 -
+128.111.149.171 - - [31/Jan/2017 01:05:31] "POST /waitlist HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:35] "POST /waitlist HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:38] "POST /waitlist HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:39] "POST /waitlist HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:39] "POST /waitlist HTTP/1.1" 200 -
+128.111.149.171 - - [31/Jan/2017 01:05:41] "POST /waitlist HTTP/1.1" 200 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/css/main.css HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET / HTTP/1.1" 200 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/img/logo.png HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/img/iphone.png HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/css/animate.css HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:05] "GET /static/css/login.css HTTP/1.1" 304 -
+174.76.140.170 - - [31/Jan/2017 01:51:06] "GET /js/wow.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [31/Jan/2017 01:51:06] "GET /js/main.js HTTP/1.1" 404 -
+174.76.140.170 - - [31/Jan/2017 01:51:06] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+174.76.140.170 - - [31/Jan/2017 01:51:10] "POST /waitlist HTTP/1.1" 200 -
+174.76.140.170 - - [31/Jan/2017 01:51:13] "POST /waitlist HTTP/1.1" 200 -
+174.76.140.170 - - [31/Jan/2017 01:51:16] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:01:25] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:01:26] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:01:26] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:01:26] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:02:13] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:01] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:01] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:01] "GET /static/css/animate.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:01] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/css/main.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/css/login.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/img/logo.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/img/iphone.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:02] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:03] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:10:03] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:03] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:08] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:10:08] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:14:45] "GET /privacy.html HTTP/1.1" 404 -
+[2017-01-31 03:14:51,711] ERROR in app: Exception on /login [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1988, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1641, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1544, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 28, in loginScreen
+    return render_template("login.html")
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/templating.py", line 133, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/templating.py", line 57, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python2.7/site-packages/Flask-0.11.1-py2.7.egg/flask/templating.py", line 85, in _get_source_fast
+    raise TemplateNotFound(template)
+TemplateNotFound: login.html
+207.154.97.193 - - [31/Jan/2017 03:14:51] "GET /login HTTP/1.1" 500 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/css/login.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/css/animate.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/css/main.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/img/logo.png HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/img/iphone.png HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:18] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:15:20] "GET /login HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:15:20] "GET /css/login.css HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:15:20] "GET /css/bootstrap.min.css HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:15:20] "GET /css/main.css HTTP/1.1" 404 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/css/login.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/css/main.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/css/animate.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/img/logo.png HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/img/iphone.png HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/img/be-the-first-bg.jpg HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:27] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:52:30] "POST /waitlist HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/css/font-awesome.min.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/css/login.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/css/bootstrap.min.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/css/main.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/css/animate.css HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/img/iphone.png HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/img/logo.png HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/img/header-bg.jpg HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:27] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 -
+207.154.97.193 - - [31/Jan/2017 03:57:50] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET /static/css/login.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET /static/css/main.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET /static/css/animate.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:37] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /static/img/iphone.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /static/img/logo.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:38] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:58:43] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:43] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:43] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:58:44] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:59:26] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:26] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:26] "GET /static/css/main.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:26] "GET /static/css/animate.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:27] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /static/css/login.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /static/img/logo.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /static/img/iphone.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:29] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 03:59:31] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:59:32] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 03:59:40] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:02:05] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:02:05] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:02:10] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:02:10] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:02:10] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:02:10] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:02:11] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:19:36] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:19:36] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:19:36] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:19:36] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:19:36] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:19:37] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:13] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:13] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:13] "GET /static/css/animate.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:13] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/css/login.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/css/main.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/img/logo.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/img/iphone.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:14] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:15] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:26:19] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:26:39] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/css/animate.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/js/modernizr-2.7.1.js HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/css/main.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/css/login.css HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:23] "GET /static/img/logo.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:24] "GET /static/img/iphone.png HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:24] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:27:24] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:27:24] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:27:24] "GET /static/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:24] "GET /static/img/header-bg.jpg HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:27:26] "GET /favicon.ico HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:46:47] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 04:46:48] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:46:48] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 04:46:48] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:43] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:00:43] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:43] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:43] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:44] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:44] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:44] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:50] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:00:50] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:00:50] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:01:15] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:02:01] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:11:27] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:11:28] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:11:28] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:11:28] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:11:40] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:11:40] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:11:41] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:12:10] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:12:10] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:12:10] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:12:11] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:12:11] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:12:12] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:12:12] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:35] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:15:36] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:36] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:36] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:37] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:37] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:37] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:15:58] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:16:44] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:16:44] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:16:44] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:16:44] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:16:45] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:16:45] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:16:45] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:16:50] "POST /waitlist HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:17:23] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:17:23] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:17:23] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:17:23] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:17:24] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:17:24] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:17:24] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:20:33] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:20:33] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:20:33] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:20:33] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:20:34] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:20:34] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:20:34] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:21:04] "GET / HTTP/1.1" 200 -
+207.154.97.193 - - [31/Jan/2017 05:21:04] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:21:04] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:21:04] "GET /js/main.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:21:05] "GET /js/wow.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:21:05] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+207.154.97.193 - - [31/Jan/2017 05:21:05] "GET /js/main.js HTTP/1.1" 404 -
